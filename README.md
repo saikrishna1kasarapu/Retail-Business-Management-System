@@ -1,5 +1,6 @@
 Project Overview:
 	The Retail Business Management System (RBMS) streamlines retail operations and manages employee, customer, and sales data using Oracle PL/SQL and Java with JDBC.
+ 
 My Contributions:
 1. Database Design:
 	Created six key tables: Employees, Customers, Products, Prod_Discnt, Purchases, and Logs.
